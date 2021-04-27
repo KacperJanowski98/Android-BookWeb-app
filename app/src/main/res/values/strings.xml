@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Book Master</string>
+    <string name="second">O programie</string>
+    <string name="czytaj">1. Czytaj książki</string>
+    <string name="komentarz">2. Zostaw komentarz</string>
+    <string name="witaj">Witaj</string>
+    <string name="buttonOK">OK, DALEJ!</string>
+    <string name="Master">Book Master</string>
+    <string name="App">Aplikacja do komentowania książek</string>
+    <string name="Ver">Wrsja 1.1</string>
+    <string name="Autor">Autorzy:</string>
+    <string name="AutorName">Kacper Janowski</string>
+    <string name="title_activity_home">Strona Główna</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="share">share</string>
+    <string name="cam">camera</string>
+
+    <string name="menu_book">BookWeb</string>
+    <string name="menu_mat">Matematyka</string>
+    <string name="menu_inf">Informatyka</string>
+    <string name="menu_ele">Elektronika</string>
+    <string name="menu_list">Lista książek</string>
+
+    <string name="list_title">Tytuł</string>
+    <string name="list_author">Autor</string>
+    <string name="list_date">Data</string>
+</resources>
